@@ -1,1 +1,2 @@
 # onlineexamsystem1
+This project is a college group project titled “Online Examination System,” developed as part of the academic curriculum. My contribution to this project was focused solely on the database component, where I worked on designing and managing the relational database structure. This included creating tables for students, exams, questions, and results, defining primary and foreign key relationships, and ensuring data integrity through proper normalization and constraints.
